@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947218401486",
+    "project_id": "apni-dukan-6ca24",
+    "storage_bucket": "apni-dukan-6ca24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947218401486:android:a181ccf7c753c4b2cde89f",
+        "android_client_info": {
+          "package_name": "com.akash.apnidukan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947218401486-cbc6logmfectq3h2b5j45rbeoei9msdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EyHlK8naNz_YR59DnC96mMLD6wXZmq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947218401486-cbc6logmfectq3h2b5j45rbeoei9msdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

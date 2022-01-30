@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060140984186",
+    "project_id": "meditate-app-4c705",
+    "storage_bucket": "meditate-app-4c705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060140984186:android:87baf365d17217f28e98c3",
+        "android_client_info": {
+          "package_name": "com.akashdeep.meditate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060140984186-4sgsa0edvo1ln3tjanva53nhai9upsd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBIIHKPrqAwXMgkCpVb5_DnqMk7nfta0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060140984186-4sgsa0edvo1ln3tjanva53nhai9upsd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
